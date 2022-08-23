@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1633389263 source:c:\users\user\desktop\apc - c\trabalho_c_parte_1.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	<stdlib.h>
+

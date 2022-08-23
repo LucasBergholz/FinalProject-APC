@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1633008709 source:c:\users\user\desktop\apc - c\trabalho_c_parte_1.1\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+
+1633008875 source:c:\users\user\desktop\apc - c\trabalho_c_parte_1.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+
